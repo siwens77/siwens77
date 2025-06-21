@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi! 👋
 
 ## About me
 🎓 I am Krzysztof Nowak, a student pursuing my Bachelor in Artificial Intelligence.<br>

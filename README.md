@@ -7,6 +7,9 @@
 
 📊 My coursework was heavily focused on mathematics, so my strongest areas are calculus, linear algebra, probability, and related fields. <br>
 
+# ⭐ Leetcode stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/siwens777?theme=dark&font=Fjalla%20One&ext=heatmap)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

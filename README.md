@@ -3,7 +3,7 @@
 ## About me
 🎓 I am Krzysztof Nowak, a student pursuing my Bachelor in Artificial Intelligence.<br>
 
-📚 I began my programming journey in 2024 with Python, but I’ve also completed projects in C, C++, Bash and using PostgreSQL. 
+📚 I began my programming journey in 2024 with Python, but I’ve also completed projects in C, C++, Bash, JavaFX with Scene Builder and using PostgreSQL. 
 
 📊 My coursework was heavily focused on mathematics, so my strongest areas are calculus, statistic, linear algebra, probability, and related fields. <br>
 

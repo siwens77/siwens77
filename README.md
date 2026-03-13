@@ -11,7 +11,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siwens777?theme=dark&font=Fjalla%20One&ext=heatmap)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,postgres,linux,git, github, vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,postgres,linux,git,github,neovim)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krzychu_nowakk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krzysztof.nowak2005@gmail.com) 
